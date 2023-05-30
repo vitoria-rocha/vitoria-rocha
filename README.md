@@ -1,7 +1,6 @@
 ### Hi there, I'm Vitória 👋
 
 
-- 🔭 I’m currently working on system analyst
 - 🌱 I’m currently learning javascript, angular, node.js
 - ❤  I like to work with projects related to the inclusion of people with special needs.
 
