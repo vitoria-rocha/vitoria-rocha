@@ -3,7 +3,7 @@
 
 - 🌱 I am currently a member of the Data & Analytics intern team at Compass UOL.
 
-- 👩‍💻 My main activities involve working with: Git, AWS Identity and Access Management (AWS IAM), Pandas (Software), Python, SQL, Amazon Web Services, Apache Spark, Docker.
+- 👩‍💻 My main activities involve working with: Git, AWS IAM, SQL, Amazon Web Services, Apache Spark, Python, Pandas e Docker.
 
 - ❤ I am passionate about engaging in projects focused on enhancing the inclusion of individuals with special needs.
 
