@@ -1,11 +1,10 @@
 ### Hi there, I'm Vitória 👋
 
+I'm passionate about learning, sharing knowledge, and positively impacting people's lives. After a career break, I'm in the process of rediscovering my professional path, with a special focus on the data field. I've been dedicating myself to courses in data engineering and cloud computing, always aiming to improve my technical skills.
 
-- 🌱 I am currently a member of the Data & Analytics intern team at Compass UOL.
+I have solid experience in back-end development with AngularJS, JavaScript, TypeScript, and Node.js, along with knowledge in Python, SQL, and AWS services. I'm constantly involved in personal projects that use technology as a tool for social transformation. Currently, I volunteer in my community, teaching robotics classes to public elementary school students—a space for learning, exchange, and fun.
 
-- 👩‍💻 My main activities involve working with: Git, AWS IAM, SQL, Amazon Web Services, Apache Spark, Python, Pandas e Docker.
-
-- ❤ I am passionate about engaging in projects focused on enhancing the inclusion of individuals with special needs.
+I've also developed initiatives focused on including people with intellectual disabilities in tech, and I strive to be present and active in the local tech community, believing that small actions can lead to a big impact. I'm currently finishing my degree in Information Systems at UFMS.
 
 <div align="center">
   <a href="https://github.com/vitoria-rocha">
